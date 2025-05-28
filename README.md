@@ -8,13 +8,20 @@ This repository contains the latest version of my CV. I am a recent graduate fro
 
 ## 📌 About Me
 
-- 💻 Strong technical foundation in Python, TensorFlow, scikit-learn, and full ML pipelines
-- 🧠 Experienced in deploying ML models, building data tools, and contributing to research
-- 🌍 Driven by work that has social and public impact – particularly in healthcare and education
-- 🤝 Collaborative team player with experience working in agile environments
+- 💻 Strong foundation in Python, TensorFlow, scikit-learn, and full ML pipelines
+- 📊 Experience building and deploying ML solutions in healthcare, education, and infrastructure settings
+- 🌍 Motivated to apply AI in socially impactful projects — particularly in the public and health sectors
+- 🤝 Collaborative team player familiar with agile environments, Git workflows, and cross-functional development
 
-## 📫 Contact
+## 📞 Contact
 
 - 📧 Email: praptimaitra@gmail.com  
-- 🌐 GitHub: [pmaitra1](https://github.com/pmaitra1)  
-- 🔗 LinkedIn: [prapti-maitra](https://www.linkedin.com/in/prapti-maitra/)
+- 📱 UK: 07523 483285 _(available via WhatsApp – SIM currently misplaced)_  
+- 🌐 International: +974 5501 4584 _(available for direct calls)_  
+- 💼 LinkedIn: [prapti-maitra](https://www.linkedin.com/in/prapti-maitra/)  
+- 🖥️ GitHub: [pmaitra1](https://github.com/pmaitra1)
+
+## 🛂 Work Eligibility
+
+I currently hold a valid UK Graduate (Post-Study Work) Visa, which is valid until **September 30, 2026**.  
+I am fully eligible to work in the UK without sponsorship during this period.
