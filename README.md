@@ -4,7 +4,7 @@ This repository contains the latest version of my CV. I am a recent graduate fro
 
 ## 🔗 Resume
 
-- [Download Resume (PDF)](./PraptiMaitra_CV.pdf)
+- [Download Resume (PDF)](./prapti_maitra_resume)
 
 ## 📌 About Me
 
